@@ -1,0 +1,1 @@
+ This guide helps you master Mimikatz, a ruthless credential extraction tool every penetration tester and attacker needs. Whether targeting legacy systems or modern defenses, Mimikatz bypasses Windows authentication with devastating precision. 
